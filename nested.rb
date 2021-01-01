@@ -103,12 +103,7 @@ programmer_hash [:yukihiro_matsumoto] = {
    }
    
    programmer_hash
-#   epic_tragedy [:additional_characters] = [
-#  { name: "Prince Escalus" },
-#  { name: "Apothecary" }
-#]
 
-   
    
    
    
