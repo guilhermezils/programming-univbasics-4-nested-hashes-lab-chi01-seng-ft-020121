@@ -103,11 +103,12 @@ programmer_hash [:yukihiro_matsumoto] = {
    }
    
    programmer_hash
+   
+   end
 
-   
-   
-   
-end
+
+
+
 
 
 def changing_alan
@@ -129,6 +130,10 @@ def changing_alan
         :languages => ["C"]
       }
     }
+
+
+
+programmer_hash
 
 
 end
